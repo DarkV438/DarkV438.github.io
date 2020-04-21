@@ -1,0 +1,9 @@
+﻿Sziasztok!
+Az 5. generációs mobiltechnológia több mint 30 év folyamatos fejlesztés után valósult meg.
+A Next Generation Mobile Networks Allance leírása tartalmazza, hogy milyen szempontoknak kell
+megfelelnie az 5G standardnak.
+Meghatározza az adatsűrűséget, adatforgalom és adatátvitel nagyságát, a lefedettséget, a csökkenő
+késleltetést.
+Magyarországon elsőként a Vodafone indította el a szolgáltatást.
+
+Nekem érdekes volt ez a téma, a neten sok új információt találtam. Nehéz volt a szerkesztésnél a képet animálni. 
