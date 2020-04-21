@@ -4,7 +4,7 @@
   <meta charset="UTF-8"> 
   <title>5G</title>
   <link href="css/bootstrap.min.css" rel="stylesheet">
-<link href="css/font-awesome.min.css" rel="stylesheet">
+  <link href="css/font-awesome.min.css" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="css/style.css"> 
   <link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet"> 
